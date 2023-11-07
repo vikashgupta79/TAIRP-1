@@ -1,35 +1,4 @@
-//import java.util.*;
-//class calculator {
-//    public static void main(String[] args) {
-//        int n1, n2, Choice, cal;
-//        System.out.println("enter a two number");
-//        Scanner s=new Scanner(System.in);
-//        n1 = s.nextInt();
-//        n2 = s.nextInt();
-//        System.out.println("select opretion:");
-//        Choice = s.nextInt();
-//        if (Choice == 1) {
-//            cal = n1 + n2;
-//            System.out.println("ADD: " + cal);
-//        } else if (Choice == 2) {
-//            cal = n1 - n2;
-//            System.out.println("SUB: " + cal);
-//        } else if (Choice == 3) {
-//            cal = n1 * n2;
-//            System.out.println("Multiple: " + cal);
-//        } else if (Choice == 4) {
-//            cal = n1 / n2;
-//            System.out.println("DIV: " + cal);
-//        } else {
-//            cal = n1 % n2;
-//            System.out.println("REM: " + cal);
-//        }
-//    }
-//}
 
-
-// Java program to create a simple calculator
-// with basic +, -, /, * using java swing elements
 
 import java.awt.event.*;
 import javax.swing.*;
